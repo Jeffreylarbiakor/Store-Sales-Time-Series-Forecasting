@@ -1,6 +1,6 @@
 # Store-Sales-Time-Series-Forecasting
 
-Introduction
+## Introduction
 Time Series is a type of data that measures how things change over time. In a time series dataset, the time column does
 not represent the variable per se, instead, it's more useful to think of it as a primary structure for ordering the dataset.
 
