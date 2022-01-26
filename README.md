@@ -12,7 +12,7 @@ Specifically, I will build a model that more accurately predicts the unit sales 
 stores in the chain.
 
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 Before building any model, the data will be explored to understand the dataset being used.
 Seven(7) files have been provided. A description for each file has been given below:
 
