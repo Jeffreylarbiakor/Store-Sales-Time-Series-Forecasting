@@ -56,12 +56,12 @@ This data contains the daily oil price including values during both train and te
 Ecuador is an oil-dependent country and its economic health is highly vulnerable to shocks in oil prices.
 
 
-Data Cleaning
+## Data Cleaning
 Oils Data had 43 null values. This was filled by linear intrapolation
 All other data points had no null values
 
 
-Feature Engineering
+## Feature Engineering
 * A high correlation between transactions and sales data makes the transactions data an important feature in building 
 forecasting model
 * A negative correlation between the sales data and daily oil prices makes the oil data necessary for improving the 
