@@ -70,7 +70,7 @@ accuracy of the model
 an accurate model
 
 
-Algorithm Selection
+## Algorithm Selection
 Models were build in the Azure Machine Learning Studio
 Models Compared:
 * Linear Regression
