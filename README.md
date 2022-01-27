@@ -82,7 +82,7 @@ Model Selected and Deployed:
 Boosted Decision Tree Regression
 
 
-Evaluation Metrics
+## Evaluation Metrics
 * Linear Regression
 Coefficient_of_Determination: 0.625
 Mean_Absolute_Error: 0.0002
@@ -107,7 +107,7 @@ Root_Mean_Squared_Error: 0.005
 
 
 
-Published Model Pipeline Details:
+## Published Model Pipeline Details:
 Status
 Active
 
